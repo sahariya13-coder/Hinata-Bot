@@ -29,15 +29,15 @@ module.exports = {
         langs: {
                 bn: {
                         noData: "× দুঃখিত বেবি, %1 শহরের নামাজের সময় পাওয়া যায়নি। 🕌",
-                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact MahMUD।"
+                        error: "× সমস্যা হয়েছে: %1।"
                 },
                 en: {
                         noData: "× Sorry baby, prayer times for %1 were not found. 🕌",
-                        error: "× API error: %1. Contact MahMUD for help."
+                        error: "× API error: %1. "
                 },
                 vi: {
                         noData: "× Xin lỗi cưng, không tìm thấy thời gian cầu nguyện cho %1. 🕌",
-                        error: "× Lỗi: %1. Liên hệ MahMUD để hỗ trợ."
+                        error: "× Lỗi: %1."
                 }
         },
 
