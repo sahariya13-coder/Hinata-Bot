@@ -32,17 +32,17 @@ module.exports = {
                 bn: {
                         noVideo: "× কোনো ভিডিও খুঁজে পাওয়া যায়নি",
                         success: "𝐇𝐞𝐫𝐞'𝐬 𝐲𝐨𝐮𝐫 𝐂𝐚𝐫 𝐯𝐢𝐝𝐞𝐨 𝐛𝐚𝐛𝐲 <😘",
-                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact MahMUD।"
+                        error: "× সমস্যা হয়েছে: %1। "
                 },
                 en: {
                         noVideo: "× No videos found",
                         success: "𝐇𝐞𝐫𝐞'𝐬 𝐲𝐨𝐮𝐫 𝐂𝐚𝐫 𝐯𝐢𝐝𝐞𝐨 𝐛𝐚𝐛𝐲 <😘",
-                        error: "× API error: %1. Contact MahMUD for help."
+                        error: "× API error: %1."
                 },
                 vi: {
                         noVideo: "× Không tìm thấy video nàn",
                         success: "Video xe hơi của cưng đây <😘",
-                        error: "× Lỗi: %1. Liên hệ MahMUD để hỗ trợ."
+                        error: "× Lỗi: %1."
                 }
         },
 
