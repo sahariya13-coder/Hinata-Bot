@@ -29,15 +29,15 @@ module.exports = {
         langs: {
                 bn: {
                         wait: "⌛ বেবি, একটি হাদিস সংগ্রহ করছি... একটু অপেক্ষা করো! <🖤",
-                        error: "× হাদিস সংগ্রহ করতে সমস্যা হয়েছে: %1। প্রয়োজনে Contact MahMUD।"
+                        error: "× হাদিস সংগ্রহ করতে সমস্যা হয়েছে: %1."
                 },
                 en: {
                         wait: "⌛ Baby, fetching a Hadis for you... Please wait! <🖤",
-                        error: "× API error: %1. Contact MahMUD for help."
+                        error: "× API error: %1."
                 },
                 vi: {
                         noInput: "⌛ Cưng ơi, đang lấy một câu Hadis... Chờ chút nhé! <🖤",
-                        error: "× Lỗi: %1. Liên hệ MahMUD để hỗ trợ."
+                        error: "× Lỗi: %1."
                 }
         },
 
