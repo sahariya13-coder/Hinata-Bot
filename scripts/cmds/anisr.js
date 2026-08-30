@@ -32,12 +32,12 @@ module.exports = {
                 en: {
                         noQuery: "• Baby, please provide a search query.",
                         success: "• 𝐇𝐞𝐫𝐞'𝐬 𝐲𝐨𝐮𝐫 𝐚𝐧𝐢𝐦𝐞 𝐯𝐢𝐝𝐞𝐨 <😘\n• 𝐒𝐞𝐚𝐫𝐜𝐡: %1",
-                        error: "× Api Error: fetching anime video: %1. Contact MahMUD for help.\n•WhatsApp: 01836298139"
+                        error: "× Api Error: fetching anime video: %1."
                 },
                 vi: {
                         noQuery: "• Vui lòng nhập tên anime cần tìm.",
                         success: "• 𝐇𝐞𝐫𝐞'𝐬 𝐲𝐨𝐮𝐫 𝐚𝐧𝐢𝐦𝐞 𝐯𝐢𝐝𝐞𝐨 <😘\n• 𝐒𝐞𝐚𝐫𝐜𝐡: %1",
-                        error: "× Lỗi khi lấy video anime: %1. Liên hệ MahMUD để được hỗ trợ.\n•WhatsApp: 01836298139"
+                        error: "× Lỗi khi lấy video anime: %1. "
                 }
         },
 
