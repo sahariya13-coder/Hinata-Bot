@@ -93,7 +93,7 @@ module.exports = {
           event.messageID
         );
       } catch (err) {
-        api.sendMessage("🥹error, contact MahMUD. " + err.message, event.threadID);
+        api.sendMessage("🥹error,. " + err.message, event.threadID);
       }
     }
   }
