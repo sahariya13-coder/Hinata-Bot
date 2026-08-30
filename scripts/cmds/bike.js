@@ -62,7 +62,7 @@ module.exports = {
       });
     } catch (e) {
       console.error("ERROR:", e);
-      api.sendMessage("🥹error, contact MahMUD.", event.threadID, event.messageID);
+      api.sendMessage("🥹error, .", event.threadID, event.messageID);
     }
   }
 };
