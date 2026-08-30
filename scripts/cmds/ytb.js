@@ -40,7 +40,7 @@ module.exports = {
 
         langs: {
                 vi: {
-                        error: "× API error: %1. Contact MahMUD for help.\n•WhatsApp: 01836298139",
+                        error: "× API error: %1.",
                         noResult: "⭕ Không có kết quả tìm kiếm nào phù hợp với từ khóa %1",
                         choose: "%1Reply tin nhắn với số để chọn hoặc nội dung bất kì để gỡ",
                         video: "video",
@@ -51,7 +51,7 @@ module.exports = {
                         info: "💠 Tiêu đề: %1\n🏪 Channel: %2\n👨‍👩‍👧‍👦 Subscriber: %3\n⏱ Thời gian video: %4\n👀 Lượt xem: %5\n👍 Lượt thích: %6\n🆙 Ngày tải lên: %7\n🔠 ID: %8\n🔗 Link: %9"
                 },
                 en: {
-                        error: "× API error: %1. Contact MahMUD for help.\n•WhatsApp: 01836298139",
+                        error: "× API error: %1.",
                         noResult: "⭕ No search results match the keyword",
                         choose: "%1Reply to the message with a number to choose or any content to cancel",
                         video: "video",
