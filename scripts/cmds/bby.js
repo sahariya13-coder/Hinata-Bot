@@ -11,8 +11,8 @@ const mahmud = [
     "জানু",
     "বেবি",
     "wifey",
-    " my wife",
-    " mahiru",
+    "my wife",
+    "mahiru",
     "hina",
     "hinata",
 ];
@@ -24,7 +24,7 @@ const baseApiUrl = async () => {
 
 module.exports.config = {
     name: "baby",
-    aliases: ["bby", "bbu", "jan", "janu", "wifey"," mahiru", "bot", "hinata", "hina"],
+    aliases: ["bby", "bbu", "jan", "janu", "wifey", " my wife", "mahiru", "bot", "hinata", "hina"],
     version: "1.7",
     author: "MahMUD",
     countDown: 0,
